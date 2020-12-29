@@ -1,0 +1,4 @@
+name back and forth world
+size 2 5
+critter back_and_forth_critter.txt 0 0 0
+critter back_and_forth_critter_1.txt 1 1 5

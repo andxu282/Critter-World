@@ -1,0 +1,6 @@
+nearby[0] < -1 --> mem[7] := 1 eat; // eighth memory slot is to say that it has just eaten
+mem[7] = 1 --> forward; 
+nearby[1] < -1 or nearby[2] < -1 or nearby[3] < -1 --> right; //rotates to eat
+nearby[4] < -1 or nearby[5] < -1 --> left;
+ENERGY > 500 * SIZE - 100 --> bud; //if enough energy is present
+1 = 1 --> mem[7] := 0 wait; // eighth memory slot reverts back to 0

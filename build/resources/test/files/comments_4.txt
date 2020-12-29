@@ -1,0 +1,3 @@
+1 = 1 --> wait;
+// ends with comments
+// but with rules still

@@ -1,0 +1,3 @@
+name simple world
+size 10 10
+critter simple_critter.txt 0 0 0

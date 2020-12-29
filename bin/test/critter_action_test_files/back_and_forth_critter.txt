@@ -1,0 +1,11 @@
+species: back and forth critter
+memsize: 8
+defense: 3
+offense: 3
+size: 1
+energy: 10000000
+posture: 10
+nearby[0] != -1 and mem[7] = 0 --> forward;
+nearby[0] = -1 --> mem[7] := 1;
+nearby[3] != -1 and mem[7] = 1 --> backward;
+nearby[3] = -1 --> mem[7] := 0;

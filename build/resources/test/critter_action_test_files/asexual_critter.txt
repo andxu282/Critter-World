@@ -1,0 +1,8 @@
+species: asexual critter
+memsize: 7
+defense: 1
+offense: 1
+size: 1
+energy: 1000000
+posture: 0
+1 = 1 --> bud;

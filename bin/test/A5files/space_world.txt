@@ -1,0 +1,3 @@
+name space world
+size 1 1
+critter space_critter.txt 0 0 0

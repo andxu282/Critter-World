@@ -1,0 +1,12 @@
+// mem[7] stores the ring level the critter is in
+// mem[8] stores the number of hexes passed in this ring
+// mem[9] stores whether the critter needs to move forward
+// mem[10] stores whether the critter needs an extra left turn
+// mem[11] stores whether the critter needs to continue straight
+mem[8] = mem[7] * 6 --> mem[7] := mem[7] + 1 mem[8] := 0 mem[9] := 1 mem[10] := 0 mem[11] := 0 right;
+mem[8] = 1 and mem[9] = 0 and mem[10] = 0 --> mem[10] := 1 left;
+mem[9] = 1 -->  mem[8] := mem[8] + 1 mem[9] := 0 forward;
+mem[11] = mem[7] - 1 -->  mem[9] := 1 mem[11] := 0 left;
+mem[11] < mem[7] - 1 --> mem[11] := mem[11] + 1 forward;
+nearby[0] < -1 --> eat;
+1 = 1 --> wait;

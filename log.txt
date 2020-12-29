@@ -1,0 +1,1061 @@
+commit d60f78a267e93bfc207eb288ff30fd3d1d256ec9
+Merge: 8bf9382 3aba99d
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 23:44:11 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 8bf9382cf145deb67d83b269f4af1ef51c32c12b
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 23:41:45 2020 -0500
+
+    Ignore this
+
+commit 3aba99d082b17944e113bb669370f61e629be0e1
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 23:39:49 2020 -0500
+
+    controller minor fix
+
+commit 282f8b0002753e5ae3852b155b48d97d1ce28d5b
+Merge: 837c480 d316d9c
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 23:22:20 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 837c4801b8ece1444b5c8bc857c855fefe98fd14
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 23:22:13 2020 -0500
+
+    very minor edit
+
+commit d316d9c241e7de5160ecb6d9844a155f8c800418
+Merge: 3eafd6b eefc730
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 23:13:12 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 3eafd6b89d8a0fcb1acef520baaf4b219a50a8fe
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 23:11:45 2020 -0500
+
+    ignore
+
+commit eefc7307d9f011aceb489a81c17dc10c6b1b3320
+Merge: 14e2b68 d91e632
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 23:11:25 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 14e2b68b7e0120ef26261b43e9cf37809b788e2e
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 23:09:31 2020 -0500
+
+    MAJOR fix to interpreter
+
+commit d91e632e8271dd395b9b19b70cb289e428aaf811
+Merge: cd95091 e165888
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 22:21:27 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit cd9509108cb6a8aba6536f3fe435711028529134
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 22:20:20 2020 -0500
+
+    ignore
+
+commit e165888dff6d42336633250cbf79d2fece2336af
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 22:17:25 2020 -0500
+
+    spiral critter
+
+commit 61791b110bf6d2791e44a5a70de2a9ddc33627b9
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 22:07:53 2020 -0500
+
+    five tile world
+
+commit 14438571331e58f55141c27bd3a20c3f0c201282
+Merge: 24b69e3 d2aa06d
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 21:48:01 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 24b69e3deb0ee3c5575a593a47417c97c7072d13
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 21:47:59 2020 -0500
+
+    implement mutation and test executer again
+
+commit d2aa06d00fb29d94f50a98fdde8e43939fe54c04
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 21:47:45 2020 -0500
+
+    FIX to interpreting ahead
+
+commit e552ebb45467d55fb6bb11f07ccd0a279e5cc9e9
+Merge: 6ea8aea 2791735
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 21:46:10 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 6ea8aeae43a735a9049b22d45c0ddc6e69c4156a
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 21:45:27 2020 -0500
+
+    BIG FIX TO INTERPRETER
+
+commit 2791735383f7a49373811acc1855c4912b30a924
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 21:43:51 2020 -0500
+
+    Five Tile Food
+
+commit 4b6241ca0aace83fd0c91967ab9056c29492d901
+Merge: e70078f cba1e88
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 21:27:12 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit e70078fdd96b7b99b616c727bfff5e6e6cb72da0
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 21:27:07 2020 -0500
+
+    LastRule updated
+
+commit cba1e884e8f4b3b0a1089fe907d5dffcf63467b3
+Merge: c95422f 486cfd5
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 21:20:08 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit c95422fd961187c54265393551b9fbecd7e6bb88
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 21:19:52 2020 -0500
+
+    testing executer
+
+commit 486cfd57f20d86c9185e33215a7328e118bd6865
+Merge: ace0ba6 92eb04a
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 21:19:00 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit ace0ba6cf53ee02941b93135c41c76a339f7810c
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 21:16:53 2020 -0500
+
+    Fixed Manna
+
+commit 92eb04ac611e995ef178194c8f0c3c44c93a3e7a
+Merge: 135cb45 10c71e0
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 20:37:39 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 135cb45424fc2d14e8c525aee97312ac50d0b28d
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 20:37:34 2020 -0500
+
+    idk
+
+commit 10c71e00d12a81a45a4f388f65b477b997aa1523
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 20:36:04 2020 -0500
+
+    forward fix again?
+
+commit ba08a4485349c0b9a81e58bcfd060257ef1b160d
+Merge: c0bca95 6199d2a
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 20:29:36 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit c0bca95b4f01525398ff8a2b9c8a84bcf9c470b0
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 20:29:16 2020 -0500
+
+    fix forward
+
+commit 6199d2ab479592a0dac207d3c2dc04eb6e7b7a5f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 20:14:31 2020 -0500
+
+    Update Critter.java
+
+commit fde118df828f0fbccf7aa1c11e377ad3f06d1d9b
+Merge: a2580ae 97a2732
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 20:13:22 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit a2580ae589eb4ace6c247f21c899d4b6cb6e09d5
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 20:13:16 2020 -0500
+
+    Bug Fixes
+
+commit 97a2732038f8190ca5b9b024ac78947e3265be47
+Merge: d74ab17 ac2f63e
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:49:27 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit d74ab171045c7f41f66e738cbf8e27db69ad0ac6
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:48:53 2020 -0500
+
+    mergeconflict
+
+commit ac2f63eb7cf0db87b748c8e29af7d68407477731
+Merge: a6756f4 98cc04e
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 19:48:33 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit a6756f4360d35f6bd59416e4f33ea6b302aa0bcd
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 19:48:25 2020 -0500
+
+    Bug Fix Hopefully
+
+commit 98cc04eeef64a84eee4d7f47f493c4a2afd096b9
+Merge: 939ce24 7515d05
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:35:26 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 939ce245c6252486f10f4a3c030fb2df216607c4
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:35:25 2020 -0500
+
+    ignore
+
+commit 03469d7fa04ad3d40093507e3292732141b3f689
+Merge: 3a480fe 4ebc504
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:35:16 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 7515d052b56df338cbb0cbc4b3d14fe579df47b9
+Merge: fd1f81b 4ebc504
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 19:33:36 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit fd1f81bededb78b48c72c9606bb8de2525a045aa
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 19:30:55 2020 -0500
+
+    Small Change
+
+commit 3a480fe49b8cb310dd9a246b27ba72556195145e
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:29:06 2020 -0500
+
+    minor
+
+commit 4ebc504d5b6b30af62351117f9acb485b4e715ec
+Merge: 5551896 c6485b8
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 19:21:12 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 555189647e4ca6eb8c87a341b9d9a1f259ea05df
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 19:21:11 2020 -0500
+
+    Update World.java
+
+commit c6485b843c8deb53c81c837528e5b2d2fecd066f
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:20:54 2020 -0500
+
+    minor fix
+
+commit 9ea4e1fbe82ae06acec40223e25f514b9f756884
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 19:07:38 2020 -0500
+
+    Update Executer.java
+
+commit 970fe83573a197c4c95d5395ff05d897c8a7cf7c
+Merge: 4e849b0 295011e
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:05:38 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 4e849b03ab0ab42f11d6294dcf5d34c45acdf88f
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 19:04:58 2020 -0500
+
+    minor
+
+commit 295011e9559b61a1781b001fce35a0837cb9966c
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 19:03:13 2020 -0500
+
+    made critters private
+
+commit 41dcc3cff1eb32f046be88959e9ffe14b7a76a9c
+Merge: 7a6533f 6ad1500
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 18:13:26 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 7a6533ff712e7a9c31f9d30d154dadec40e9725f
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 18:13:25 2020 -0500
+
+    Update ConsoleController.java
+
+commit 6ad15008e76dad7f7cc9e9caea2afd452e6d2998
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 18:13:14 2020 -0500
+
+    moveCritter method to world
+
+commit 5d30d30fdc87dc6395a8bba152e2097d37d3e8ef
+Merge: 641e930 44ea3f2
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 17:53:20 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 641e93068bb986ad7a391bacd33e00985d371874
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 17:52:36 2020 -0500
+
+    Mate/advance
+
+commit 44ea3f2ba4b49b91f90c4818874ce12dd5477e77
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 17:52:23 2020 -0500
+
+    critter test files
+
+commit e89d81cc6ae2abe6631eeda988aaafe1fef10846
+Merge: ca85d02 8cfaa2f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 17:33:06 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit ca85d02c2bea34fc1dff3295bff18f67ce05cb44
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 17:33:05 2020 -0500
+
+    critter test files complete
+
+commit 8cfaa2f9a523acf7dacfb467e21579e1a3274df4
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 17:32:18 2020 -0500
+
+    aggro and asexual critters
+
+commit e4f18c902543ecda18b1df87e096fcad002f151a
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 17:20:46 2020 -0500
+
+    test files for actions
+
+commit b1c25b2920f32717c558ae5a3a4a4a7c99a2303a
+Merge: 6eaec5a 2222749
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 16:44:10 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 6eaec5a6e174ccbdc6d400e0973742337c2d830f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 16:44:05 2020 -0500
+
+    added spiral.txt
+
+commit 222274977b51d4fb4d79eec734fa18c63cd297b3
+Merge: 9975a9c 9a4c064
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 16:42:17 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 9975a9c3d0485207a491f1827dea6e4e26ddd81c
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 16:42:07 2020 -0500
+
+    last rule
+
+commit 9a4c06487ad23dd24e90f4c5125c6123d80c3d47
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 16:37:37 2020 -0500
+
+    Critter last rule now outputs no last rule if critter just initialized
+
+commit 9286e78fa1cf8c69d05fce778b7123ef3e6df3ab
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 16:31:04 2020 -0500
+
+    setLastRule
+
+commit f9f2ea64489c488ad2761232b8d2b12bcf4cfbba
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 16:09:24 2020 -0500
+
+    Changes to deal with modifed world
+
+commit 24b50e2fcc8473468f52b3e2498f02a2dba636c2
+Merge: cd03497 92b5c60
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 15:59:06 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit cd034970e2c5ec9e8608368307fa9826eafe5198
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 15:59:04 2020 -0500
+
+    implement setTile correctly
+
+commit 92b5c60a3fff688c30baae65d6e9a36fbcbec967
+Merge: 69abb99 6052226
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 15:58:36 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 69abb99d3ce23fa262e2779388b5a3987dcadcd4
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 15:58:29 2020 -0500
+
+    Remove errors from interpreter
+
+commit 605222631cc9d2c431e26dca140ec28ffa2cb124
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 15:54:39 2020 -0500
+
+    x to c and y to r
+
+commit a9195bc851290bc36cf0cb3d4ba67da057127e5a
+Merge: f825e25 0d4eb6d
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 15:50:56 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit f825e25820471e8ff9e3d92f71334b58811d5951
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 15:50:48 2020 -0500
+
+    getTile
+
+commit 0d4eb6dc24e8d3ee9c36171972447fbd780088f1
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 15:47:30 2020 -0500
+
+    Update Critter.java
+
+commit 6f72ea604ca3e75d74a62ea72acfa13ef1b22c24
+Merge: 3f16cd3 019596e
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 15:20:19 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 3f16cd3c5b6ea64ce2b48108586c80168d61339e
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 15:20:16 2020 -0500
+
+    Most actions except Mate
+
+commit 019596eb06be7c1c8531672ef039a8f7cecd90f8
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 15:11:42 2020 -0500
+
+    Some minor changes/documentation
+
+commit e71d8ee690a992b9b6bc3ce20d8315f8efe5eba6
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 12:16:02 2020 -0500
+
+    Updated Interpreter
+
+commit b4748ef16e6658a10f82c1a35751f6edc86311d0
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 19 10:40:19 2020 -0500
+
+    Ensured Console was working
+
+commit 4c5e84a03cc659e1323fdfb5e3877c4d0aa8c64d
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 05:08:08 2020 -0500
+
+    some interesting solutions to interpreting mem expressions
+
+commit bf76cc947f852c7305017f3b499592c2ff6c7c61
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 01:02:09 2020 -0500
+
+    minor changes
+
+commit 240451c57fd1613ead878051a1ff9babbd3c8490
+Merge: 338a7ae d9def99
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 01:01:50 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 338a7aea91ecb01b9d818327d4f1680e0fc06df3
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Thu Nov 19 00:47:43 2020 -0500
+
+    Interpreter First Draft and some other modifications
+
+commit d9def992e7bf38fc238adbc5e84e465bfa0ded6f
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Thu Nov 19 00:46:58 2020 -0500
+
+    fix mem in AST
+
+commit d51f704f14bbfa39bac06452ea7bfa3387fa0237
+Merge: 21014f6 f7f0183
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Nov 18 23:15:45 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 21014f6426bc22d1e452380d3a38e3133f18ac1f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Nov 18 23:15:42 2020 -0500
+
+    basic implementation of advancetime
+
+commit f7f018377e6a58aac57c346b36765712f877a6d9
+Merge: 833387b 3040478
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Wed Nov 18 23:11:19 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 833387b3ca38b389af1b303eb262b12bcf9428a6
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Wed Nov 18 23:11:15 2020 -0500
+
+    Update build.gradle
+
+commit 3040478ef2cb83cb87a0f6ef0a1886cde0c5bda8
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Nov 18 17:58:08 2020 -0500
+
+    Tested loadCritter successfully
+
+commit 142a364b84f23f3391209492e612495550845a47
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Nov 18 17:22:35 2020 -0500
+
+    ConsoleControllerTest pretty much done
+
+commit 2154ff4407af5d7fee7ab603fa0c9d328e1e0169
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Nov 18 16:20:44 2020 -0500
+
+    Added Test Cases for ConsoleController
+
+commit d330d90c92ec5f82c2e90cd83baabf155a649cc3
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 17 23:24:18 2020 -0500
+
+    Updated ConsoleController
+
+commit f5898efbf0ed34a6dfb3da7c01d29c3cf83d4cdb
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 17 21:07:30 2020 -0500
+
+    Preliminary Implementations of loadWorld and loadCritters
+
+commit e31a1bfdd1ef50578fd8a52747e03f7693a1287b
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 17 16:33:42 2020 -0500
+
+    Finalized Critter and World
+
+commit b29c44125f00ce5a223d69e72d91a4529f28663c
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 17 10:57:14 2020 -0500
+
+    Finished World Model and ASCII Art
+
+commit f2a3e113dabb5160700eb24546c16bee21d55c61
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Nov 11 10:35:21 2020 -0500
+
+    Moved critter files
+
+commit 1dd64b4bc81089585dac46e13dd816340af6c768
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Nov 11 10:34:28 2020 -0500
+
+    Added Controller Implementation classes
+
+commit 3d82dde5535d4f40999efe95456b144c2db06cb4
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Mon Nov 9 20:45:53 2020 -0500
+
+    One Line Update
+
+commit 76371b77dac8f097c375a035c7ca1bffaae171e7
+Merge: 015610c 9f7185a
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Mon Nov 9 20:35:58 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 015610ca864bb7057caba2c5d4e3e84c779b74f0
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Mon Nov 9 20:35:33 2020 -0500
+
+    Update ParseAndMutateApp.java
+
+commit f410ef36e48c69dd67a91d691e2d6c01b057125f
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Mon Nov 9 20:35:19 2020 -0500
+
+    Update PrettyPrinter.java
+
+commit 9f7185a03559390f3b0907fd6b966be687bd64d5
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 5 14:42:30 2020 -0500
+
+    Import A5
+
+commit 9782591d35e91e96c95a3fed8b03ef74f03ca38f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Nov 5 14:40:38 2020 -0500
+
+    Update ParseAndMutateApp.java
+
+commit 46c3d255fdb19f6a4f76a8e9eba0f9cb99809aea
+Merge: 577da39 1685904
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 23:30:40 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 577da39f15a35f790e021e193cf93b0cd8af78ae
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 23:29:48 2020 -0500
+
+    Finalize
+
+commit 168590474632c71daf69b4ed92469efc3e0a4ee6
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 23:29:44 2020 -0500
+
+    Finished Parser and PrettyPrinter
+
+commit e9c5cebf444b33e48401e915572571481d83a795
+Merge: dd81ee2 046d4d0
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 23:16:09 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit dd81ee2f9baae0057aa4f52735c09f6ccd77a240
+Merge: 26b62d8 2849c8c
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 23:12:30 2020 -0500
+
+    Finished Parser and PrettyPrinter
+
+commit 046d4d075b5851a62fea3ab3bc118b6e8f21f13b
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 23:08:25 2020 -0500
+
+    Update Transform.java
+
+commit 2edddf71204ea39e41fd9a4af7134f05fddb12c0
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 23:07:30 2020 -0500
+
+    JavaDoc Added
+
+commit ad96ffadd379b3e7cdcf526aab2581c2c2d6337d
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 22:22:46 2020 -0500
+
+    Update Replace.java
+
+commit 165864cecabf3b2f371382f44c53621ddc0c70f4
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 22:03:04 2020 -0500
+
+    Update PrettyPrinter.java
+
+commit 502e2b63d588a077fc7cfa0fb075e461824b4a49
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 22:00:34 2020 -0500
+
+    MutationTests finalized
+
+commit fc373b9b57defd440b23f44b1b05e002a20351d6
+Merge: 17f55eb 3b6f11d
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 21:26:48 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 17f55eb36e4cc31868c54b5de191bc7b0f951d6f
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 21:26:31 2020 -0500
+
+    Revert Some Changes to Nodes
+
+commit 3b6f11dd79981f2e3fd77628bb3d073e04dc0bfe
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 21:16:48 2020 -0500
+
+    More Mutation Test
+
+commit c523c3915f2898b0822e4b1676a7f754a3e69899
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 21:10:48 2020 -0500
+
+    Added Mutation Tests
+
+commit 26b62d856024cacea84e9c5906e557b8aca6225c
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 20:43:39 2020 -0500
+
+    prettyprint update
+
+commit 2849c8c466c433c9cd03e7a0dee98b0db7a43828
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 20:24:37 2020 -0500
+
+    Update RemoveTest.java
+
+commit 7de96f168043c918028f8d083d147a352a4e2735
+Merge: c00c53d 766a120
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 20:23:33 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit c00c53d89b59098f6ecd025f1ebb18483b38fc2f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 20:21:06 2020 -0500
+
+    ReplaceTest, removed establishParentLinks
+
+commit 766a120bebe032d6da27c59001c5e2b8cb3dfbf5
+Merge: c381b9e 247f65b
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 20:19:33 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit c381b9e2163c923f230fe466adde300e6ed49df4
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 20:19:19 2020 -0500
+
+    Test Push
+
+commit 247f65b900905681eeca77cbcb8afb4be14fd48b
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 19:54:02 2020 -0500
+
+    Created Mutation Test classes
+
+commit 2f7f89abf9b880c29e3cc0f5f0fe52a6ddf3d3f1
+Merge: 10eaf48 683fb40
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 19:52:08 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 10eaf48a5ea7ba8b4d827af10ea3aca0ecc2f8d3
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 19:51:57 2020 -0500
+
+    Created/Moved Test Files
+
+commit 683fb400e1904df22883378b9c7883d5c840936d
+Merge: b20e65f 69698f5
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 19:50:18 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit b20e65f5ba447fd33f2382978eafbc41ce0d5cdc
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 19:50:11 2020 -0500
+
+    Minor Changes
+
+commit 69698f5c5d4d011d9eaf7d2917a603936d42336f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Nov 3 19:43:55 2020 -0500
+
+    Added ClassInv Implementation for all Nodes
+
+commit 69ab8229baf5127289f66afa7dadb10379895614
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 18:18:16 2020 -0500
+
+    fix setting parents
+
+commit 3a6f19b5b693506e56e91f9d5f9695f912a886a2
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 17:31:11 2020 -0500
+
+    small fix
+
+commit 176d61dac5c064e84ca5df6b66e34b9fb5f5764d
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 17:28:24 2020 -0500
+
+    Abstract Node Clone
+
+commit 04b93c738a77f0304bd1bcd15deb57f875b14a06
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 17:00:13 2020 -0500
+
+    small changes working on deep copy
+
+commit e1983502661102c0eefb9e301466c5b7f4362438
+Merge: 20829a1 3714889
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 16:40:53 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 20829a17598c92060722f5057ca6e156084e6657
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 16:40:51 2020 -0500
+
+    ignore
+
+commit 3714889c188688056088376833b78b29e5d983f0
+Merge: 95cc2c8 829e538
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 16:37:06 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 95cc2c850019357d1bea24aea41f3bfe1c894bfc
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 16:35:54 2020 -0500
+
+    Mutate methods in ParserImpl and other small changes
+
+commit 829e5387447b55959b5d60a7e1ee98d60e95f280
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 15:58:54 2020 -0500
+
+    Main Class
+
+commit e99cccc792cd4de6a583690e55419888b8a82eea
+Merge: 12f25d4 6f1c1c2
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 12:29:41 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 12f25d461bd4f6976c14461277cff44e528986d8
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Tue Nov 3 12:29:40 2020 -0500
+
+    ignore
+
+commit 6f1c1c270c44ac8278cd53e07a0540b6232b2f2d
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 12:26:48 2020 -0500
+
+    Changes to PrettyPrinter
+
+commit a815ba8af23c4bd9c34a66bdbf8931533f769c80
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Tue Nov 3 02:35:48 2020 -0500
+
+    Commit with mutation code
+    
+    mutations implemented but not tested
+
+commit dcc18b1b42e0eacc0ad1387d5a1e2cbd926511e0
+Merge: a240021 d25f20d
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Mon Nov 2 22:06:56 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit d25f20df899f2e17e5e36c6ed1966985e3ade965
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Mon Nov 2 22:02:33 2020 -0500
+
+    clean up of nodes
+
+commit a240021fd6773f86644217a5d1d934ead2da3439
+Merge: 3a3919e 8a5fad6
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Mon Nov 2 22:00:24 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit 8a5fad647afe587f26a8110ce71207f77b5c5a2b
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Mon Nov 2 21:58:45 2020 -0500
+
+    fix AbstractNode after it got wiped during a commit
+
+commit 3a3919e4f293888cf29ab12c2c45431b06f8c652
+Author: ishaanc123 <ic254@cornell.edu>
+Date:   Mon Nov 2 21:44:29 2020 -0500
+
+    Testing Push
+
+commit b6e123e5a7fc6aa1687748478777ee2231c96690
+Merge: d16d6ae 6985e95
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Mon Nov 2 21:38:56 2020 -0500
+
+    Merge branch 'master' of https://github.coecis.cornell.edu/cs2112-20fa-teams/ajx8-ezj4-ic254-critterworld
+
+commit d16d6aeec95af32eb011af44754b17da33e980be
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Mon Nov 2 21:28:26 2020 -0500
+
+    Pretty Printer and Parser/AST modifications
+
+commit 6985e95b1e07adce115ddd9ec29a5c0caba52f74
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Sun Nov 1 17:04:21 2020 -0500
+
+    Revert "Worked on AbstractNode and AST Functionality"
+    
+    This reverts commit 24a8f4f20f5a5eacf5c8183742a2e1f11cc9e34f.
+
+commit c76d2807094b21188f653d02bd880d76505173e8
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Sun Nov 1 16:45:53 2020 -0500
+
+    Update ParseAndMutateApp.java
+
+commit 24a8f4f20f5a5eacf5c8183742a2e1f11cc9e34f
+Author: ericji50 <52365502+ericji50@users.noreply.github.com>
+Date:   Sun Nov 1 15:31:47 2020 -0500
+
+    Worked on AbstractNode and AST Functionality
+
+commit fadf15b3d5620fe267b503af1be914430228e8d9
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Sat Oct 31 07:58:08 2020 -0400
+
+    Made Command abstract
+
+commit 17a5a2c7a0cdca5ccdc356c7a359fce2dbdc98dc
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Oct 29 20:51:56 2020 -0400
+
+    Delete Factor.java
+    
+    Not needed
+
+commit 5c1efe61b0e3a6a6a40419043ac06386920aa8d0
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Oct 28 21:11:13 2020 -0400
+
+    Update ParseAndMutateApp.java
+
+commit 7851ef6241feb54e17b9b3169f72d639461f834a
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Oct 28 17:27:35 2020 -0400
+
+    Added Test Cases for Mutated Critters
+
+commit e9bc2b6eff53d32e8a9127df7ae0b4ac1ecde250
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Oct 28 17:25:04 2020 -0400
+
+    Tokenizer Now Takes Comments
+    
+    Tokenizer takes in comments starting with "//"
+    Also added test cases for programs with comments, including one with all comments, and it returns Maybe.none(), as it should.
+
+commit be1da83c0faccd7b7fff632dbc7affa0c7ae2bf6
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Oct 28 14:15:45 2020 -0400
+
+    Got rid of main method in ParserImpl
+
+commit 85222a4970f44913f4a56774e8ceeeccdc394a55
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Oct 28 14:11:06 2020 -0400
+
+    Maybe.none() returned instead of null
+    
+    Update ParserImpl to return Maybe.none() if there's a syntax error
+    parse.Parser signature changed
+    ParserTest updated to test for Maybe.none()
+
+commit 12ddba41cb5e8c88e67e3e0be3c674312d9e42c2
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Wed Oct 28 10:04:05 2020 -0400
+
+    Updated Parser so that empty programs return null
+
+commit 570bdf8f47c264c0d25e4b10526a7b095d4db22c
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Tue Oct 27 22:39:07 2020 -0400
+
+    Finished 1st ParserImpl, Added 6 Test Cases
+
+commit f0a0223e73dd9e44286888583e2b065bf631e58f
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Mon Oct 26 23:01:31 2020 -0400
+
+    Updated AST Design and Updated ParserImpl
+
+commit 3f1954bd520100320fb6c674dc470463b52b2c13
+Author: Andrew Xu <ajx8@cornell.edu>
+Date:   Thu Oct 15 20:03:47 2020 -0400
+
+    Update settings.gradle
+
+commit 9bf333197ac74606e3711b1d182774212f8752af
+Author: Sam Sorenson <sms668@cornell.edu>
+Date:   Wed Oct 14 12:24:26 2020 -0400
+
+    remove gradle folder from gitignore
+
+commit e17d294e89f01b6d1c1452ea4641a95ad63d802a
+Author: Sam Sorenson <sms668@cornell.edu>
+Date:   Tue Oct 13 19:03:15 2020 -0400
+
+    update JUnit version
+
+commit caf62b4f771e5da173232ac897108a13df442054
+Author: Sam Sorenson <sms668@cornell.edu>
+Date:   Tue Oct 13 09:24:13 2020 -0400
+
+    initial commit

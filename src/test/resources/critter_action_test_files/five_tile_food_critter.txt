@@ -1,0 +1,10 @@
+species: five tile food critter
+memsize: 8
+defense: 10
+offense: 10
+size: 1
+energy: 100
+posture: 10
+nearby[0] < -1 --> mem[7] := 0 eat;
+mem[7] = 1 --> forward;
+ahead[5] < -1 and mem[7] = 0 --> mem[7] := 1;

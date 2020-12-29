@@ -1,0 +1,4 @@
+name eatbud
+size 10 10
+critter eat_and_bud_critter.txt 4 4 0
+food 5 5 400

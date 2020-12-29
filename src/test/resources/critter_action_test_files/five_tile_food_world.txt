@@ -1,0 +1,4 @@
+name five tile food world
+size 20 20
+critter five_tile_food_critter.txt 0 0 0
+food 0 5 100 

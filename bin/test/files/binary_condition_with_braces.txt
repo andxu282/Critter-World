@@ -1,0 +1,2 @@
+{3 = 3 or 3 = 3} and {3 = 3 or 3 = 3} --> wait;
+4 = 4 or 4 = 4 and 4 = 4 or 4 = 4 --> wait;

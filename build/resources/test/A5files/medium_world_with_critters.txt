@@ -1,0 +1,12 @@
+name Medium World With Critters
+size 10 10
+rock 1 2
+rock 5 7
+rock 2 3
+rock 6 7
+food 3 4 100
+food 4 3 200
+food 9 9 300
+critter space_critter.txt 5 3 1
+critter space_critter.txt 3 5 4
+critter space_critter.txt 2 2 3

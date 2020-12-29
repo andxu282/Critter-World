@@ -1,0 +1,3 @@
+name spiral world
+size 10 10
+critter spiral_critter.txt 4 4 0

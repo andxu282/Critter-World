@@ -1,0 +1,3 @@
+name asexual world
+size 5 5
+critter asexual_critter.txt 2 2 1

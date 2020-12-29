@@ -1,0 +1,8 @@
+species: smell critter
+memsize: 7
+defense: 1
+offense: 1
+size: 1
+energy: 500
+posture: 0
+smell < 100000000 --> left;

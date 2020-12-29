@@ -1,0 +1,22 @@
+name Big World With Critters
+size 200 200
+rock 1 2
+rock 5 7
+rock 2 3
+rock 6 7
+rock 1 20
+rock 5 69
+rock 2 30
+rock 6 70
+food 123 14 100
+food 4 943 200
+food 9 9 300
+food 3 40 1000
+food -4 30 2000
+food 9 -90 3000
+critter space_critter.txt 5 3 1
+critter space_critter.txt 3 5 4
+critter space_critter.txt 2 2 3
+critter space_critter.txt 50 30 0
+critter space_critter.txt 30 50 5
+critter space_critter.txt 20 20 2

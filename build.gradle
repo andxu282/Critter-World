@@ -1,0 +1,74 @@
+plugins {
+    id 'java'
+    id 'eclipse'
+    id 'application'
+    id 'org.openjfx.javafxplugin' version '0.0.8'
+}
+
+apply plugin: 'java'
+// external repositories where dependencies of your project are found
+repositories {
+    // Use 'jcenter' for resolving external dependencies
+    jcenter()
+}
+
+
+
+javafx {
+    modules = [ 'javafx.controls', 'javafx.web', 'javafx.fxml' ]
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs 'src/main/java'
+            srcDirs 'src/easyIO/src'
+        }
+    }
+ }
+
+dependencies {
+    // the spark webserver
+    implementation 'com.sparkjava:spark-core:2.9.1'
+    // GSON, for parsing and generating JSON
+    implementation 'com.google.code.gson:gson:2.8.5'
+    // run tests with JUnit 5
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-params:5.5.2'
+    testImplementation 'org.junit.jupiter:junit-jupiter-engine:5.5.2'
+}
+
+test {
+    useJUnitPlatform()
+    testLogging {
+        events "passed", "skipped", "failed", "standardOut", "standardError"
+        exceptionFormat "full"
+    }
+}
+
+mainClassName = 'view.Starter'
+
+// console jar for A5
+jar {
+    archiveBaseName.set('Console')
+    manifest {
+        attributes 'Main-Class': 'console.Console'
+    }
+    from(sourceSets.main.output) {
+        include '**'
+    }
+}
+
+// parse and mutate jar for A4
+task parseAndMutateJar(type: Jar) {
+    archiveBaseName.set('ParseAndMutate')
+    manifest {
+        attributes 'Main-Class': 'main.ParseAndMutateApp'
+    }
+    from(sourceSets.main.output) {
+        include '**'
+    }
+}
+
+// make jar task assemble both jars
+jar.dependsOn parseAndMutateJar

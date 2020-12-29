@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.CubicCurve?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Polygon?>
+
+<VBox prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+  <children>
+      <VBox prefHeight="98.0" prefWidth="900.0">
+         <children>
+            <ToolBar prefHeight="59.0" prefWidth="900.0">
+               <items>
+                  <AnchorPane prefHeight="87.0" prefWidth="87.0">
+                     <children>
+                        <Button mnemonicParsing="false" prefHeight="47.0" prefWidth="49.0" text="Random" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="87.0" prefWidth="87.0">
+                     <children>
+                        <Button mnemonicParsing="false" prefHeight="47.0" prefWidth="49.0" text="World" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="87.0" prefWidth="87.0">
+                     <children>
+                        <Button mnemonicParsing="false" prefHeight="47.0" prefWidth="49.0" text="Critter" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="87.0" prefWidth="87.0">
+                     <children>
+                        <Button mnemonicParsing="false" prefHeight="47.0" prefWidth="49.0" text="1Time" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="87.0" prefWidth="87.0">
+                     <children>
+                        <Button mnemonicParsing="false" prefHeight="47.0" prefWidth="49.0" text="Run" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0" />
+                     </children>
+                  </AnchorPane>
+               </items>
+            </ToolBar>
+         </children>
+      </VBox>
+      <HBox prefHeight="507.0" prefWidth="900.0">
+         <children>
+            <Pane prefHeight="501.0" prefWidth="852.0">
+               <children>
+                  <Pane layoutX="644.0" layoutY="207.0" prefHeight="196.0" prefWidth="167.0">
+                     <children>
+                        <CubicCurve controlX1="-152.1998748779297" controlX2="-171.47509765625" controlY1="60.763031005859375" controlY2="70.97531127929688" endX="-117.33834838867188" endY="114.25" layoutX="209.0" layoutY="35.0" startX="-124.79586791992188" startY="90.325927734375" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="0.16546762589928066" startX="1.0" startY="1.0">
+                                 <stops>
+                                    <Stop color="BLACK" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </CubicCurve>
+                        <CubicCurve controlX1="-151.66693115234375" controlX2="-120.9656982421875" controlY1="55.10429382324219" controlY2="77.35899353027344" endX="-112.69998168945312" endY="98.79449462890625" layoutX="202.0" layoutY="2.0" startX="-120.9656982421875" startY="116.50674438476562" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="0.16546762589928066" startX="1.0" startY="1.0">
+                                 <stops>
+                                    <Stop color="BLACK" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </CubicCurve>
+                        <CubicCurve controlX1="-89.47836303710938" controlX2="-102.74407958984375" controlY1="57.34796142578125" controlY2="93.00003051757812" endX="-131.98773193359375" endY="102.39981079101562" layoutX="244.0" layoutY="36.0" startX="-131.98773193359375" startY="93.0" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="0.16546762589928066" startX="1.0" startY="1.0">
+                                 <stops>
+                                    <Stop color="BLACK" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </CubicCurve>
+                        <CubicCurve controlX1="-112.09466552734375" controlX2="-97.92489624023438" controlY1="48.92347717285156" controlY2="70.17817687988281" endX="-129.02191162109375" endY="104.99658203125" layoutX="238.0" layoutY="8.0" startX="-134.53018188476562" startY="97.37911987304688" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="0.16546762589928066" startX="1.0" startY="1.0">
+                                 <stops>
+                                    <Stop color="BLACK" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </CubicCurve>
+                        <CubicCurve controlX1="69.0" controlX2="121.0" controlY1="78.0" controlY2="78.0" endX="120.0" endY="144.03988647460938" layoutX="3.0" layoutY="-12.0" startX="70.0" startY="144.03988647460938" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="0.7745803357314149" startX="1.0">
+                                 <stops>
+                                    <Stop color="#aeaeae" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </CubicCurve>
+                        <CubicCurve controlX1="-20.0" controlX2="29.999969482421875" controlY1="-35.0" controlY2="-35.0" endX="30.0" endY="-62.0" layoutX="93.0" layoutY="190.0" startX="-20.0" startY="-62.0" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="0.07434052757793769" startX="1.0" startY="0.7170263788968825">
+                                 <stops>
+                                    <Stop color="#aeaeae" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </CubicCurve>
+                        <Ellipse fill="#f2f2f2" layoutX="99.0" layoutY="155.0" radiusX="11.0" radiusY="15.0" stroke="BLACK" strokeType="INSIDE" />
+                        <CubicCurve controlX1="87.21380615234375" controlX2="107.61038208007812" controlY1="111.32072448730469" controlY2="111.32072448730469" endX="111.9810791015625" endY="142.0" layoutX="1.0" layoutY="-55.0" startX="83.0" startY="142.0" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="0.7745803357314149" startX="1.0">
+                                 <stops>
+                                    <Stop color="#aeaeae" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </CubicCurve>
+                        <CubicCurve controlX1="-117.99998474121094" controlX2="-107.729736328125" controlY1="12.0" controlY2="34.25" endX="-98.28324890136719" endY="-19.674072265625" fill="WHITE" layoutX="192.0" layoutY="115.0" startX="-107.72978210449219" startY="-26.75897216796875" stroke="BLACK" />
+                        <CubicCurve controlX1="-100.54119873046875" controlX2="-93.00003051757812" controlY1="30.25" controlY2="8.0" endX="-109.6260986328125" endY="-27.734710693359375" fill="WHITE" layoutX="219.0" layoutY="123.0" startX="-119.47317504882812" startY="-27.7347412109375" stroke="BLACK" />
+                        <CubicCurve controlX1="5.075531005859375" controlX2="12.974945068359375" controlY1="95.80239868164062" controlY2="95.80239868164062" endX="-1.0684814453125" endY="58.938385009765625" fill="#ffd0e7" layoutX="109.0" layoutY="37.0" startX="-5.7496337890625" startY="58.938385009765625" stroke="BLACK" />
+                        <CubicCurve controlX1="-20.000030517578125" controlX2="9.05364990234375" controlY1="-43.024688720703125" controlY2="-43.024688720703125" endX="9.05364990234375" endY="-59.717559814453125" fill="WHITE" layoutX="104.0" layoutY="146.0" startX="-20.000030517578125" startY="-59.717559814453125" stroke="BLACK" />
+                        <Circle fill="#ddefff" layoutX="92.0" layoutY="81.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" />
+                        <Circle fill="#0000008b" layoutX="92.0" layoutY="80.0" radius="2.0" stroke="BLACK" strokeType="INSIDE" />
+                        <Circle fill="#ddefff" layoutX="104.0" layoutY="81.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" />
+                        <Circle fill="#0000008b" layoutX="104.0" layoutY="80.0" radius="2.0" stroke="BLACK" strokeType="INSIDE" />
+                        <Ellipse fill="#ffd0e7" layoutX="98.0" layoutY="67.0" radiusX="3.0" radiusY="2.0" stroke="BLACK" strokeType="INSIDE" />
+                        <CubicCurve controlX1="-5.49591064453125" controlX2="3.281219482421875" controlY1="94.0" controlY2="94.0" endX="7.377227783203125" endY="64.69381713867188" fill="#ffd0e7" layoutX="83.0" layoutY="33.0" startX="3.281219482421875" startY="61.182952880859375" stroke="BLACK" />
+                     </children>
+                  </Pane>
+               </children></Pane>
+            <Pane prefHeight="501.0" prefWidth="412.0">
+               <children>
+                  <Pane layoutX="22.0" layoutY="14.0" prefHeight="109.0" prefWidth="115.0">
+                     <children>
+                        <CubicCurve controlX1="-229.8775634765625" controlX2="-113.953125" controlY1="-3.6415863037109375" controlY2="-109.90570068359375" endX="-95.22900390625" endY="17.990020751953125" layoutX="175.0" layoutY="55.0" startX="-102.919189453125" startY="25.411529541015625" stroke="BLACK">
+                           <fill>
+                              <LinearGradient endX="0.3093525179856115" endY="1.0">
+                                 <stops>
+                                    <Stop color="#51380e" />
+                                    <Stop color="#51380e" offset="0.007532956685499058" />
+                                    <Stop color="#78663b" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill></CubicCurve>
+                        <CubicCurve controlX1="-121.4552001953125" controlX2="-113.09234619140625" controlY1="-11.162918090820312" controlY2="27.287353515625" endX="-135.802490234375" endY="15.700531005859375" fill="#eeeeee" layoutX="225.0" layoutY="77.0" startX="-137.180908203125" startY="8.102691650390625" stroke="BLACK" />
+                        <CubicCurve controlX1="-120.80218505859375" controlX2="-150.0" controlY1="9.16162109375" controlY2="26.31011962890625" endX="-141.471435546875" endY="0.6996612548828125" fill="#eeeeee" layoutX="225.0" layoutY="89.0" startX="-137.0050048828125" startY="1.255035400390625" stroke="BLACK" />
+                        <Line endX="-11.88800048828125" endY="8.395584106445312" layoutX="99.0" layoutY="76.0" startX="-21.388427734375" startY="-1.10479736328125" />
+                        <Line endX="5.82147216796875" endY="-44.0074462890625" layoutX="77.0" layoutY="133.0" startX="-4.256591796875" startY="-52.98237609863281" />
+                        <Line endX="-21.93609619140625" endY="-3.302886962890625" layoutX="101.0" layoutY="77.0" startX="-27.54949951171875" startY="2.310516357421875" />
+                     </children>
+                  </Pane>
+                  <Pane layoutX="36.0" layoutY="139.0" prefHeight="104.0" prefWidth="80.0">
+                     <children>
+                        <Polygon layoutX="49.0" layoutY="61.0" points="-50.0, 21.9134521484375, 25.38140869140625, 21.913421630859375, -12.416748046875, -51.3294677734375" stroke="BLACK" strokeType="INSIDE">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="1.0" startX="0.6762589928057554">
+                                 <stops>
+                                    <Stop color="BLACK" />
+                                    <Stop color="#a8a8a8" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </Polygon>
+                        <Polygon layoutX="38.0" layoutY="70.0" points="-16.71307373046875, -28.115692138671875, 15.90216064453125, -28.115692138671875, -0.989990234375, -60.3294677734375" stroke="BLACK" strokeType="INSIDE">
+                           <fill>
+                              <LinearGradient endX="1.0" endY="1.0" startX="0.1918465227817746" startY="0.4460431654676259">
+                                 <stops>
+                                    <Stop color="#b5b5b5" />
+                                    <Stop color="WHITE" offset="1.0" />
+                                 </stops>
+                              </LinearGradient>
+                           </fill>
+                        </Polygon>
+                     </children>
+                  </Pane>
+               </children>
+            </Pane>
+         </children>
+      </HBox>
+  </children>
+</VBox>

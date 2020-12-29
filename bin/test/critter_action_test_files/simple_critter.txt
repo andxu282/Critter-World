@@ -1,0 +1,8 @@
+species: simple critter
+memsize: 7
+defense: 3
+offense: 3
+size: 1
+energy: 100
+posture: 10
+1 = 1 --> forward;

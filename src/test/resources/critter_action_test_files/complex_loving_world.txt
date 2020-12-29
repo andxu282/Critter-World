@@ -1,0 +1,4 @@
+name complex loving world
+size 5 5
+critter loving_critter.txt 2 2 4
+critter complex_loving_critter.txt 1 1 1

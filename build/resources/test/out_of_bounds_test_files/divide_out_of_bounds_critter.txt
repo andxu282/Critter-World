@@ -1,0 +1,8 @@
+species: serve critter
+memsize: 7
+defense: 10
+offense: 10
+size: 10
+energy: 1000
+posture: 10
+2 / 0 = 0 --> forward;

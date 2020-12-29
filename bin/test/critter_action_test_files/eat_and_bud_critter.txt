@@ -1,0 +1,13 @@
+species: eat and bud critter
+memsize: 8
+defense: 2
+offense: 2
+size: 1
+energy: 10
+posture: 10
+nearby[0] < -1 --> mem[7] := 1 eat;
+mem[7] = 1 --> forward; 
+nearby[1] < -1 or nearby[2] < -1 or nearby[3] < -1 --> right;
+nearby[4] < -1 or nearby[5] < -1 --> left;
+ENERGY > 500 * SIZE - 100 --> bud;
+1 = 1 --> mem[7] := 0 wait; 

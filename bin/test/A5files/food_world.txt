@@ -1,0 +1,7 @@
+name food world
+size 5 5
+rock 0 2
+rock 1 1
+rock 2 2
+food 3 3 100
+critter smell_critter.txt 0 0 0
